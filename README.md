@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### My name is Volodymyr, and I'm a full-stack developer with 16+ years of experience in building software solutions across multiple areas & technology stacks. 
+#### My name is Volodymyr, and I'm a full-stack developer with 15+ years of experience in building software solutions across multiple areas & technology stacks. 
 
 🔭 I have been working in various fields, starting from embedded devices, industrial automation, IT security, mobile/desktop/web apps development, VOD & live video streaming, finances, and ending with managing a team of 40+ engineers.
 
