@@ -6,4 +6,4 @@
 
 👯 I'm opened to new opportunities in the areas of teams & software engineering for the unique business problems of any scale, including charity and non-profit projects.
 
-📫 You can get in touch with me by dropping a line to [volodymyr@smirnov.im](mailto:volodymyr@smirnov.im) or by saying *Hi!* in [Telegram](https://t.me/volodymyr_smirnov).
+📫 You can get in touch with me by dropping a line to [volodymyr@smirnov.im](mailto:volodymyr@smirnov.im) or by saying *Hi!* in [Telegram](https://t.me/volodymyrsmirnov).
